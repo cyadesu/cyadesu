@@ -1,8 +1,8 @@
 
 
-- 🔭 Trabalho com Front-End para o PicPay <img align="right" width="100" height="100" src="https://media.discordapp.net/attachments/879105472962117695/879105643527684196/logo-picpay-256.png">
+- 🔭 Trabalho com Front-End para o PicPay 
 - 📫 Contato: cyadesu@protonmail.com
-
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
  
   

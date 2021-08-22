@@ -3,6 +3,6 @@
 - 🔭 Trabalho com Front-End para o PicPay
 - 📫 Contato: cyadesu@protonmail.com
 
-<div>
-  <div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<img align="right" width="400" height="400" src="https://media.discordapp.net/attachments/879105472962117695/879105643527684196/logo-picpay-256.png">
+ 
   
